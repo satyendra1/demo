@@ -48,4 +48,4 @@ jobs:
          registry: docker.io
          username: santyrocker
 # Docker registry password
-         password: ${{ secrets.DOCKER_HUB_PASSWD }}
+         password: ${{ secrets.DOCKERPASSWD }}
